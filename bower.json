@@ -1,0 +1,17 @@
+{
+  "name": "requirejspoc",
+  "description": "RequireJS Benifits and Uses",
+  "main": "index.js",
+  "authors": [
+    "sujith"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/sujith597/RequireJSPOC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

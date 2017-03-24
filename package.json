@@ -1,0 +1,19 @@
+{
+  "name": "requirejspoc",
+  "version": "1.0.0",
+  "description": "RequireJS Benifits and Uses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujith597/RequireJSPOC.git"
+  },
+  "author": "sujith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujith597/RequireJSPOC/issues"
+  },
+  "homepage": "https://github.com/sujith597/RequireJSPOC#readme"
+}
